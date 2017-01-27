@@ -4,6 +4,8 @@
 * [(MVA) 2014 Microsoft ALM Day 團隊開發日] (https://mva.microsoft.com/zh-tw/training-courses/2014-microsoft-alm-day--11142?l=GzdQB5LAB_704984382)
 * [GitFlow for Visual Studio 使用教學與衝突處裡方式] (http://blog.miniasp.com/post/2015/02/19/Useful-tool-GitFlow-for-Visual-Studio-Tutorial.aspx)
 * [Visual Studio Online 版控] (https://kingofamani.gitbooks.io/git-teach/content/chapter_5/visual_studio_online.html)
+* [Visual Studio 2015 與 Git 開發實戰] (http://www.slideshare.net/WillHuangTW/visual-studio-2015-git)
+* [VSTS-Git with Visual Studio 入門教學] (http://www.slideshare.net/kingkongbruce/vstsgit-with-visual-studio)
 
 # For every developers
 * [Connect to Visual Studio Team Services from Eclipse, Xcode, Visual Studio, and more] (https://www.visualstudio.com/zh-tw/docs/setup-admin/team-services/connect-to-visual-studio-team-services)
